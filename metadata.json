@@ -1,0 +1,8 @@
+{
+  "name": "ProBlog",
+  "description": "A professional publishing platform and modern blog engine with admin dashboard and editorial tools.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
